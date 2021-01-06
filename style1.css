@@ -41,12 +41,12 @@ body {
 }
 #calc-display-val{
     height:80px;
-    color:white;
+    color:grey;
     text-align:right;
     border-left: 1px solid grey;
     border-right: 1px solid gray;
     font-size:48px;
-    background-color:#383838;
+    background-color:#383849;
     overflow: hidden;
     white-space:nowrap ;
     padding:12px;
@@ -54,7 +54,7 @@ body {
 
 }
 .calc-btn-operator{
-    background-color: orange;
+    background-color: #ed1790;
     color: white;
 }
 h1{
